@@ -13,7 +13,7 @@ NBFlix does not collect any data from its users nor monitor activities or action
 
 If you have any questions or concerns about our privacy policy, feel free to contact us via email:
 
-- **Email:** lcw@newbit.jp
+- **Email:** info@nb-intelligence.com
 
 Thank you for choosing NBFlix.
 
